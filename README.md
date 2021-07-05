@@ -18,4 +18,4 @@ js
 php للربط
 
 
-![alt text](https://github.com/abdulrheem-alj/controlboard/blob/main/img/Remote1.JPG) 
+![alt text](https://github.com/abdulrheem-alj/task2_controlboard/blob/main/img/Remote1.JPG) 
