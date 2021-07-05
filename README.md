@@ -16,3 +16,6 @@ html
 css
 js
 php للربط
+
+
+![alt text](https://github.com/abdulrheem-alj/controlboard/blob/main/Remote1.JPG) 
